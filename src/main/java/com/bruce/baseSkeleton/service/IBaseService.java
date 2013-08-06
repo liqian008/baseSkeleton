@@ -1,4 +1,4 @@
-package com.bruce.baseService;
+package com.bruce.baseSkeleton.service;
 
 import java.util.List;
 
